@@ -1,24 +1,14 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.19;
 
 import "forge-std/Test.sol";
-import "../src/Counter.sol";
+import "../src/DuckDuck.sol";
 
-contract CounterTest is Test {
-    Counter public counter;
+contract DuckDuckTest is Test {
+    DuckDuck public nft;
 
     function setUp() public {
-        counter = new Counter();
-        counter.setNumber(0);
+        nft = new Duckduck();
     }
 
-    function testIncrement() public {
-        counter.increment();
-        assertEq(counter.number(), 1);
-    }
-
-    function testSetNumber(uint256 x) public {
-        counter.setNumber(x);
-        assertEq(counter.number(), x);
-    }
 }
