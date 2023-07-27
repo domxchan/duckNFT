@@ -12,3 +12,10 @@ docs/
 
 # Dotenv file
 .env
+
+# Working files
+remix-accounts.txt
+.secretkey
+.infura
+makefile
+index.html

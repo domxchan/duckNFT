@@ -1,0 +1,20 @@
+{
+    "name": "Rubber Duck #5",
+    "description": "A friendly rubber duck with a pink body. It's wearing a black bowtie.",
+    "external_url": "https://www.ludus.hk/artefacts/metadata/5.json",
+    "image": "https://www.ludus.hk/artefacts/images/img5.png",
+    "attributes": [
+        {
+            "trait_type": "background-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "color",
+            "value": "pink"
+        },
+        {
+            "trait_type": "outfit",
+            "value": "yellow bowtie"
+        }
+    ]
+}

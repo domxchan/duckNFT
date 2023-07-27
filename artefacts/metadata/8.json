@@ -1,0 +1,20 @@
+{
+    "name": "Rubber Duck #8",
+    "description": "A curious rubber duck with a yellow body. It's wearing a blue bowtie.",
+    "external_url": "https://www.ludus.hk/artefacts/metadata/8.json",
+    "image": "https://www.ludus.hk/artefacts/images/img8.png",
+    "attributes": [
+        {
+            "trait_type": "background-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "outfit",
+            "value": "blue bowtie"
+        }
+    ]
+}

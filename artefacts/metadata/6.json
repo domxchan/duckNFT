@@ -1,0 +1,20 @@
+{
+    "name": "Rubber Duck #6",
+    "description": "A cute rubber duck with a green body. It's wearing a blue scarf.",
+    "external_url": "https://www.ludus.hk/artefacts/metadata/6.json",
+    "image": "https://www.ludus.hk/artefacts/images/img6.png",
+    "attributes": [
+        {
+            "trait_type": "background-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "color",
+            "value": "green"
+        },
+        {
+            "trait_type": "outfit",
+            "value": "blue scarf"
+        }
+    ]
+}

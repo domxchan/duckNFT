@@ -1,0 +1,20 @@
+{
+    "name": "Rubber Duck #3",
+    "description": "A happy rubber duck with a yellow body. It's wearing a purple scarf.",
+    "external_url": "https://www.ludus.hk/artefacts/metadata/3.json",
+    "image": "https://www.ludus.hk/artefacts/images/img3.png",
+    "attributes": [
+        {
+            "trait_type": "background-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "color",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "outfit",
+            "value": "purple scarf"
+        }
+    ]
+}

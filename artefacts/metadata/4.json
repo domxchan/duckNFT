@@ -1,0 +1,20 @@
+{
+    "name": "Rubber Duck #4",
+    "description": "A curious rubber duck with a purple body. It's wearing a blue beret.",
+    "external_url": "https://www.ludus.hk/artefacts/metadata/4.json",
+    "image": "https://www.ludus.hk/artefacts/images/img4.png",
+    "attributes": [
+        {
+            "trait_type": "background-color",
+            "value": "white"
+        },
+        {
+            "trait_type": "color",
+            "value": "purple"
+        },
+        {
+            "trait_type": "outfit",
+            "value": "blue beret"
+        }
+    ]
+}
